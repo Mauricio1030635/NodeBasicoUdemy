@@ -1,0 +1,2 @@
+Options:
+      --help     Show help                                         [boolean]      --version  Show version number                               [boolean]  -t, --tabla    Table de multiplicar                               [number]  -l, --listar   Run with verbose logging         [boolean] [default: false]  -h, --hasta    valores hasta                        [number] [default: 10]
